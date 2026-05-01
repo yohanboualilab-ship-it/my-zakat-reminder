@@ -1,6 +1,10 @@
-# Frontend Project README
+# My Zakat Reminder
 
-Welcome to the frontend of the My Zakat Reminder application! This guide is for anyone who wants to understand how this project is organized, especially if you're new to modern web development frameworks like Next.js.
+Welcome to the My Zakat Reminder application! This guide is for anyone who wants to understand how this project is organized, especially if you're new to modern web development frameworks like Next.js.
+
+## Preview
+
+![Dashboard preview — signed-in user view](docs/dashboard-preview.png)
 
 ## What is this project built with?
 
